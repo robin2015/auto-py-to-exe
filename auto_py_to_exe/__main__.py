@@ -28,7 +28,7 @@ import re
 import traceback
 import tempfile
 import json
-from . import __version__ as version
+# from . import __version__ as version
 
 
 class CaptureStderr:
